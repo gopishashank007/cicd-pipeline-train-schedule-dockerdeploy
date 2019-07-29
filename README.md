@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at http://localhost:8080
 
-This should trigger the build
+This should trigger the build and do it by yourself
